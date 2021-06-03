@@ -1,0 +1,26 @@
+<annotation>
+	<folder>smoke</folder>
+	<filename>smoke.b8a0a2d4-c4a2-11eb-9a46-18dbf20cb687.jpg</filename>
+	<path>D:\Semester 4-2\Thesis\Faster RCNN\Tensorflow\workspace\images\collectedimages\smoke\smoke.b8a0a2d4-c4a2-11eb-9a46-18dbf20cb687.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>116</ymin>
+			<xmax>148</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
